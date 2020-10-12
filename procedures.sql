@@ -1,4 +1,4 @@
-/****** Object:  Stored Procedure dbo.organiza_fichas_atend ******/
+ /****** Object:  Stored Procedure dbo.organiza_fichas_atend ******/
 CREATE PROCEDURE organiza_fichas_atend
   @par_atendimento integer,
   @par_tempo_distribui_fichas dateTime, 

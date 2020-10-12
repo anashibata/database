@@ -1,4 +1,4 @@
-USE [argus]
+USE [argus] 
 GO
 /****** Object:  Table [dbo].[CONSULTAEXAMEFISICO]      ******/
 SET ANSI_NULLS ON
